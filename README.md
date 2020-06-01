@@ -3,6 +3,7 @@
 <img src="https://github.com/ppc-ntu-khpi/gui-lab2-34-KolyaCherednikov/blob/master/Screenshot1.png" width="50%"/>
 <img src="https://github.com/ppc-ntu-khpi/gui-lab2-34-KolyaCherednikov/blob/master/Screenshot2.png" width="50%"/>
 <img src="https://github.com/ppc-ntu-khpi/gui-lab2-34-KolyaCherednikov/blob/master/Screenshot3.png" width="50%"/>
+
 ## На "п'ять"
 1. Завантажте jar-файл з усіма потрібними классами (*Bank, Customer, Account* та ін.) з наших попередніх лаб - [MyBank](https://github.com/ppc-ntu-khpi/GUI-Lab2-Starter/blob/master/jars/MyBank.jar) 
 2. Створіть в Netbeans новий проект з назвою MatisseDemo (або використайте проект, створений в ході виконання попередньої роботи). *УВАГА! Чекбокс *Create Main Class* треба **очистити** (**не створювати виконуваний клас**)!* 
