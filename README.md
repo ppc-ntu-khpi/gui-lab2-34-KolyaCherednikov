@@ -1,8 +1,8 @@
 [![Work in Repl.it](https://classroom.github.com/assets/work-in-replit-14baed9a392b3a25080506f3b7b6d57f295ec2978f6f33ec97e36a161684cbe9.svg)](https://classroom.github.com/online_ide?assignment_repo_id=2815794&assignment_repo_type=AssignmentRepo)
 
-<img src="https://github.com/ppc-ntu-khpi/gui-lab2-34-KolyaCherednikov/blob/master/Screenshot1.png" width="25%"/>
-<img src="https://github.com/ppc-ntu-khpi/gui-lab2-34-KolyaCherednikov/blob/master/Screenshot2.png" width="25%"/>
-<img src="https://github.com/ppc-ntu-khpi/gui-lab2-34-KolyaCherednikov/blob/master/Screenshot3.png" width="25%"/>
+<img src="https://github.com/ppc-ntu-khpi/gui-lab2-34-KolyaCherednikov/blob/master/Screenshot1.png" width="75%"/>
+<img src="https://github.com/ppc-ntu-khpi/gui-lab2-34-KolyaCherednikov/blob/master/Screenshot2.png" width="75%"/>
+<img src="https://github.com/ppc-ntu-khpi/gui-lab2-34-KolyaCherednikov/blob/master/Screenshot3.png" width="75%"/>
 ## На "п'ять"
 1. Завантажте jar-файл з усіма потрібними классами (*Bank, Customer, Account* та ін.) з наших попередніх лаб - [MyBank](https://github.com/ppc-ntu-khpi/GUI-Lab2-Starter/blob/master/jars/MyBank.jar) 
 2. Створіть в Netbeans новий проект з назвою MatisseDemo (або використайте проект, створений в ході виконання попередньої роботи). *УВАГА! Чекбокс *Create Main Class* треба **очистити** (**не створювати виконуваний клас**)!* 
